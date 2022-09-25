@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+#include <stdio.h>
 #include <locale.h>
 
 int dia, mes, ano, a, b, c, d, e, resultado;
