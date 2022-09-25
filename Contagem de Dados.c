@@ -1,4 +1,4 @@
-// Código feito por Murilo (A.D.S)
+// Código feito/adaptado por Murilo (A.D.S)
 
 #include <stdio.h>
 
